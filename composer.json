@@ -1,0 +1,17 @@
+{
+    "name": "romain/composerquest",
+    "authors": [
+        {
+            "name": "romain",
+            "email": "mcbess18@gmail.com"
+        }
+    ],
+    
+    
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
